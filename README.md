@@ -3,7 +3,7 @@
 # Php BACKDOOR
 
 # Tutorial
-$recipient = "Email@blabal"; Use my email
+$recipient = "Email@blabal"; <<< Use my email
 
 header("Location:#"); <<< Use my Website
 
