@@ -1,8 +1,8 @@
 # Web-Seo
 
-Php BACKDOOR
+# Php BACKDOOR
 
-Tutorial
+# Tutorial
 $recipient = "Email@blabal"; Use my email
 header("Location:#"); <<< Use my Website
 Example
