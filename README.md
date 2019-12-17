@@ -11,4 +11,10 @@ Example
 
 $recipient = "kurokanata123@gmail.com";
 
-header("Location:https://kurokanata.me/");
+header("Location:https:/alltutorcyber.net/");
+
+#My Website
+https://alltutorcyber.net/
+
+#My Landing
+https://adewakun.my.id/
